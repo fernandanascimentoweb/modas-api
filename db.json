@@ -1,0 +1,190 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "title": "Camisa estampada preta",
+            "image": "https://static.ecosweb.com.br/public/produtos/moda-masculina/camisa-manga-curta/camisa-masculina-estampada-preto_744073_600_1.webp",
+            "price": 49.89,
+            "category": "camisa",
+            "desc": "A Camisa Masculina Estampada Diametro é uma escolha vibrante e cheia de estilo. Feita em meia malha de alta qualidade, oferece conforto e durabilidade. "
+        },
+        {
+            "id": 2,
+            "title": "Camisa tradicional vermelha",
+            "image": "https://bluhen.cdn.magazord.com.br/img/2024/08/produto/7165/camiseta-masculina-bluhen-algodao-verao-vermelho-narbona-1.jpg?ims=fit-in/635x865/filters:fill(white)",
+            "price": 54.84,
+            "category": "camisa",
+            "desc": "E uma escolha vibrante, feita em meia malha de alta qualidade, oferece todo conforto, no seu dia a dia. "
+        },
+        {
+            "id": 3,
+            "title": "Camisa manga curta tecido Linho",
+            "image": "https://www.hangar33.com.br/dw/image/v2/BFCG_PRD/on/demandware.static/-/Sites-masterCatalog_Lunelli/default/dw80aef653/large/hangar33-1.77436-011015-C1.jpg?sw=900&sfrm=jpg&sm=fit&q=80",
+            "price": 174.69,
+            "category": "camisa",
+            "desc": "Experimente o conforto e a sofisticação dessa camisa de mangas curtas em Tecido Linho. Com modelagem Slim Fit e tom off-white, essa peça é leve e perfeita para os dias mais quentes. Versátil, ela combina com bermuda jeans para um visual descontraído ou pode ser usada aberta como sobreposição. Confeccionada "
+        },
+        {
+            "id": 4,
+            "title": "Camisa recorte bolso manga curta",
+            "image": "https://images2.marisa.com.br/medias/sys_master/images/images/h53/h60/16344751276062/Camiseta-Masculina-Recorte-Bolso-Manga-Curta-MR-10055640008-C1.jpg",
+            "price": 39.89,
+            "category": "camisa",
+            "desc": "A Camisa Masculina é uma escolha vibrante e cheia de estilo. Feita em meia malha de alta qualidade, oferece conforto e durabilidade. "
+        },
+        {
+            "id": 5,
+            "title": "Camisa estampada Rovitex",
+            "image": "https://modamix.vteximg.com.br/arquivos/ids/182878-0-0/modamix_masculino_6_junho_98-1.png?v=637909105193130000",
+            "price": 44.89,
+            "category": "camisa",
+            "desc": "A Camisa Masculina Estampada Diametro é uma escolha vibrante e cheia de estilo. Feita em meia malha de alta qualidade, oferece conforto e durabilidade. "
+        },
+        {
+            "id": 6,
+            "title": "Casaco gola V preta Rovitex",
+            "image": "https://fieroshop.vtexassets.com/arquivos/ids/185183/blusa-masculina-que-retem-o-calor-corporal.jpg?v=638748766776430000",
+            "price": 51.79,
+            "category": "casaco",
+            "desc": "É uma escolha vibrante e cheia de estilo. Feita em meia malha de alta qualidade, oferece conforto e durabilidade. "
+        },
+        {
+            "id": 7,
+            "title": "Casaco com capu branco",
+            "image": "https://http2.mlstatic.com/D_NQ_NP_745410-MLB84623339333_052025-O-camiseta-com-capuz-masculina-camisa-manga-longa-algodo.webp",
+            "price": 47.49,
+            "category": "casaco",
+            "desc": "E uma escolha vibrante e cheia de estilo. Feita em meia malha de alta qualidade, oferece conforto e durabilidade. "
+        },
+        {
+            "id": 8,
+            "title": "Casaco moleton cores",
+            "image": "https://cdn.awsli.com.br/600x1000/1946/1946271/produto/107301834/b111272214.jpg",
+            "price": 77.89,
+            "category": "casaco",
+            "desc": "E uma escolha vibrante e cheia de estilo. Feita em meia malha de alta qualidade, oferece conforto e durabilidade. "
+        },
+        {
+            "id": 9,
+            "title": "Casaco manga longa",
+            "image": "https://seeder.cdn.magazord.com.br/img/2023/06/produto/3379/blusa-manga-longa-tricot-champy-vermelho-se0701014-vm0067.jpg",
+            "price": 47.89,
+            "category": "casaco'",
+            "desc": "E uma escolha vibrante e cheia de estilo. Feita em meia malha de alta qualidade, oferece conforto e durabilidade. "
+        },
+        {
+            "id": 10,
+            "title": "Casaco malha regular azul",
+            "image": "https://static.ecosweb.com.br/public/produtos/moda-masculina/camiseta-manga-longa/blusa-masculina-malha-listra-c-viscose-regular-fit-azul_748952_600_1.webp",
+            "price": 40.89,
+            "category": "casaco",
+            "desc": "E uma escolha vibrante e cheia de estilo. Feita em meia malha de alta qualidade, oferece conforto e durabilidade. "
+        },
+        {
+            "id": 11,
+            "title": "Bermuda eco chambray",
+            "image": "https://seeder.cdn.magazord.com.br/img/2024/07/produto/5828/se1901037-bg0030-bermuda-eco-chambray-bege-seeder-4.jpg",
+            "price": 34.89,
+            "category": "bermuda",
+            "desc": "E uma escolha vibrante e cheia de estilo. Feita em meia malha de alta qualidade, oferece conforto e durabilidade. "
+        },
+        {
+            "id": 12,
+            "title": "Bermuda sport casual preta",
+            "image": "https://hiatto.cdn.magazord.com.br/img/2024/10/produto/14588/06m0038-002-bermuda-masculina-sport-casual-hiatto-preto-2.png?ims=630x945",
+            "price": 42.79,
+            "category": "bermuda",
+            "desc": "E uma escolha vibrante e cheia de estilo. Feita em meia malha de alta qualidade, oferece conforto e durabilidade. "
+        },
+        {
+            "id": 13,
+            "title": "Bermuda moleton xangai",
+            "image": "https://bluhen.cdn.magazord.com.br/img/2024/09/produto/7982/bermuda-moletom-masculina-bluhen-xangai-1.png?ims=fit-in/635x865/filters:fill(white)",
+            "price": 40.89,
+            "category": "bermuda",
+            "desc": "E uma escolha vibrante e cheia de estilo. Feita em meia malha de alta qualidade, oferece conforto e durabilidade. "
+        },
+        {
+            "id": 14,
+            "title": "Bermuda de linho atenas",
+            "image": "https://davyjones.com.br/wp-content/uploads/2023/01/702-Bermuda-Masculina-Mauricinho-bege-1-1.jpg",
+            "price": 82.89,
+            "category": "bermuda",
+            "desc": "E uma escolha vibrante e cheia de estilo. Feita em meia malha de alta qualidade, oferece conforto e durabilidade. "
+        },
+        {
+            "id": 15,
+            "title": "Bermuda jeans tradicional",
+            "image": "https://edexjeans.cdn.magazord.com.br/img/2024/08/produto/60438/bermuda-masculina-jeans-azul-claro.jpg?ims=fit-in/475x650",
+            "price": 43.89,
+            "category": "bermuda",
+            "desc": "E uma escolha vibrante e cheia de estilo. Feita em meia malha de alta qualidade, oferece conforto e durabilidade. "
+        },
+        {
+            "id": 16,
+            "title": "Chinelo slide tiras couro",
+            "image": "https://images.tcdn.com.br/img/img_prod/664507/chinelo_slide_masculino_pegada_tiras_couro_131285_2_20251017162053_4645d95b8996.jpg",
+            "price": 33.89,
+            "category": "acessorios",
+            "desc": "E uma escolha vibrante e cheia de estilo. Feita de alta qualidade, oferece conforto e durabilidade. "
+        },
+        {
+            "id": 17,
+            "title": "Chinelo rider pump",
+            "image": "https://cdn.sistemawbuy.com.br/arquivos/5f8438d659c71c23012b6beddfec74d1/produtos/66aa9267b2fd2/mp0000041850_01-66aa926948f4c.jpg",
+            "price": 23.89,
+            "category": "acessorios",
+            "desc": "E uma escolha vibrante e cheia de estilo. Feita de alta qualidade, oferece conforto e durabilidade. "
+        },
+        {
+            "id": 18,
+            "title": "Oculos de sol haste madeira",
+            "image": "https://http2.mlstatic.com/D_NQ_NP_903048-MLB85070267729_052025-O.webp",
+            "price": 49.89,
+            "category": "acessorios",
+            "desc": "E uma escolha vibrante e cheia de estilo. Feita de alta qualidade, oferece conforto e durabilidade. "
+        },
+        {
+            "id": 19,
+            "title": "Oculos de sol redondo volty",
+            "image": "https://img.irroba.com.br/fit-in/600x600/filters:fill(fff):quality(80)/lidersho/catalog/aninha/oculos/img-3368.jpg",
+            "price": 49.89,
+            "category": "acessorios",
+            "desc": "E uma escolha vibrante e cheia de estilo. Feita de alta qualidade, oferece conforto e durabilidade. "
+        },
+        {
+            "id": 20,
+            "title": "Cinto country couro",
+            "image": "https://images.tcdn.com.br/img/img_prod/798641/cinto_de_couro_masculino_jacomo_napa_preto_c_002_sob_encomenda_2329_1_c7867cf9931741496a9c15c6d24f6fd7.jpg",
+            "price": 77.89,
+            "category": "acessorios",
+            "desc": "E uma escolha vibrante e cheia de estilo. Feita de alta qualidade, oferece conforto e durabilidade. "
+        },
+        {
+            "id": 21,
+            "title": "Cinto rodeo west",
+            "image": "https://cdn.iset.io/assets/66687/produtos/21325/thumb_600-600-0c87524787c21b2ef459ca5fa4855c7168f0d5074885a.png",
+            "price": 70.89,
+            "category": "acessorios",
+            "desc": "E uma escolha vibrante e cheia de estilo. Feita de alta qualidade, oferece conforto e durabilidade. "
+        }
+    ],
+    "menu_list": [
+        {
+            "menu_nome": "camisa",
+            "menu_image": "https://png.pngtree.com/png-vector/20250823/ourmid/pngtree-men-s-shirt-icon-which-is-on-light-background-vector-png-image_17299672.png"
+        },
+        {
+            "menu_nome": "bermuda",
+            "menu_image": "https://static.vecteezy.com/ti/vetor-gratis/p1/14576767-icone-de-shorts-masculino-estilo-de-estrutura-de-topicos-vetor.jpg"
+        },
+        {
+            "menu_nome": "casaco",
+            "menu_image": "https://thumbs.dreamstime.com/b/casaco-de-neve-inverno-para-%C3%ADcone-masculino-estilo-contorno-desenhado-%C3%A0-m%C3%A3o-ou-homens-parte-dos-acess%C3%B3rios-e-atividades-240488057.jpg"
+        },
+        {
+            "menu_nome": "acessorios",
+            "menu_image": "https://static.vecteezy.com/ti/vetor-gratis/p1/5377882-homens-acessorios-glifo-icone-codigo-de-vestimenta-roupa-masculina-estilo-e-moda-sapatos-relogio-de-pulso-e-smoking-laco-silhueta-simbolo-negativo-espaco-isolado-ilustracao-vetor.jpg"
+        }
+    ]
+}
